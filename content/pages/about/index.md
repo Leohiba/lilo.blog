@@ -1,13 +1,13 @@
 +++
 title = "About me"
 draft = false
+image = "img_7595-2.jpeg"
 description = ""
-image = "/img/default-author.jpg"
 +++
-![](/img/default-author.jpg)
+![](img_7595-2.jpeg)
 
-## My Name
+## Leo Boghenbor
 
-mail@example.org
+leo.boghenbor@stud.muristalden.ch
 
-Here should be some info about me...
+Hallo ich heisse Leo, ich hoffe meine Reportage gefällt Ihnen.
