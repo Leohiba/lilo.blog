@@ -35,6 +35,10 @@ Die Schweizer Pünktlichkeit finde ich sehr gut. In Japan finde ich, wie man sic
 **Gibt es einen Unterschied zwischen deiner japanischen und englischen Familie?**
 Es hat einen Unterschied zwischen japanischer und englischer Familie. Vor meiner japanischen Familie muss ich mich höflicher verhalten. Also ich darf nicht über alles sprechen in meinem Leben, denn ich kann nicht zu offen sein. Die Schweizer Jugend wird ein Kulturschock für die japanischen Eltern sein. Bei der englischen Familie kann ich über alles reden. England ist ähnlich zu der Schweiz.
 
+> Die Schweizer Jugend wird ein Kulturschock für die japanischen Eltern sein.
+>
+> *Fumito Browne*
+
 **Gibt es Dinge an der japanischen Kultur, die du sehr vermisst? Und gibt es Aspekte, die du an der schweizerischen Kultur besonders schätzt?**
 Ich mag japanisches Essen sehr. Ich vermisse auch allgemein einfach so Japan, im Ganzen, nicht Kultur, aber so die Luft dort. Aber ich muss sagen, das Hanne-Wasser von der Schweiz ist viel besser als das Frischwasser in Japan. Ferien, logischerweise, sind in der Schweiz besser. Allgemein so die Arbeit, so das Mindset für die Arbeit ist in der Schweiz viel, viel, besser.
 
