@@ -19,7 +19,7 @@ Es ist nicht ungewöhnlich, mit mehreren kulturellen Einflüssen aufzuwachsen, a
 Wir setzen uns in einen Park in Langenthal, es ist ein trüber Tag, und es riecht nach japanischem Essen. Sein liebstes asiatisches Restaurant liegt gleich um die Ecke. Während um uns Kinder spielen, erzählt Fumito offen über seine Erfahrungen mit einer hybriden Identität. Man sieht ihm an, dass er sich auf das Interview freut.
 
 {{<box>}}
-Fumito Robert Browne hat in Japan das Licht erblickt und verbrachte dort die ersten 8 Jahre seines Lebens, bevor er für ein Jahr nach England zog. Nun lebt er seit über 10 Jahren in der Schweiz. Mit seinem Multikulturellem Hintergrund und seinen Erfahrungen aus 3 Ländern kennt er die Herausforderungen hybrider Identitäten aus erster Hand. Heute macht Fumito eine Lehre als Polymechaniker.
+Fumito Robert Browne hat in Japan das Licht erblickt und verbrachte dort die ersten 8 Jahre seines Lebens, bevor er für ein Jahr nach England zog. Nun lebt er seit über 10 Jahren in der Schweiz. Mit seinem multikulturellem Hintergrund und seinen Erfahrungen aus 3 Ländern kennt er die Herausforderungen hybrider Identitäten aus erster Hand. Heute macht Fumito eine Lehre als Polymechaniker.
 {{</box>}}
 
 **Leo Boghenbor: Kannst du mir etwas über deine Herkunft erzählen? Wo bist du geboren und wo bist du aufgewachsen?**
