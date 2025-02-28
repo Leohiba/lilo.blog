@@ -3,6 +3,7 @@ title = "Japan, England, die Schweiz - und ich?"
 date = "2025-02-21"
 draft = false
 pinned = false
+tags = []
 image = "image-3-.jpg"
 +++
 `{{</*lead*/>}}`
