@@ -63,4 +63,4 @@ Ich habe bemerkt, dass die Schweizer Kinder sehr mutterabhängig. Nicht, dass es
 Also mein Zuhause ist in der Schweiz, also ich fühle mich schon am meisten in der Schweiz zu Hause. Japan ist für mich schon fast zu einem Ferienort geworden. Ich gehe nur noch dort hin, um mich zu erholen. Aber ich sehe es nicht mehr als zu Hause.
 
 **Welchen Rat würdest du anderen jungen Menschen geben, mit einem ähnlichen multikulturellen Hintergrund wie du, die Schwierigkeiten haben mit ihrer Identität oder Schwierigkeiten haben sich zu integrieren?**
-Einfach nicht darauf eingehen, wenn sie dich beleidigen. Jeder macht sein eigenes Ding. Du musst nicht unbedingt integriert werden, du musst es einfach probieren. Solange du es probierst und solange du dir Mühe gibst, werden sie dich aufnehmen. Weil die Schweiz eben ein sehr offenes, multikulturelles Land ist.
+Einfach nicht darauf eingehen, wenn sie dich beleidigen. Jeder macht sein eigenes Ding. Du musst nicht unbedingt integriert sein, du musst es einfach probieren. Solange du es probierst und solange du dir Mühe gibst, werden sie dich aufnehmen. Weil die Schweiz eben ein sehr offenes, multikulturelles Land ist.
