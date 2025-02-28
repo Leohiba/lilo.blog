@@ -23,6 +23,10 @@ Ja, sprechen kann ich flüssig. Schreiben kann ich nur Hiragana, Katakana. Kanji
 **Wie würdest du deine Identität in einem Satz beschreiben?**
 Ich würde mich als immer neugierig beschreiben.
 
+> Immer neugierig.
+>
+> *Fumito Browne*
+
 **Gibt es Momente, in denen du dich mehr Englisch oder Japanisch fühlst?**
 Zum Beispiel, wenn ich so im ÖV bin und ich sehe die Jungen und die geben keine Sitzplätze an die alten Frauen, dann fühle ich mich sehr japanisch und ich würde sie gerne darauf ansprechen. Wenn ich laut spreche und etwas trinke fühle ich mich wie ein Engländer.
 
@@ -46,8 +50,6 @@ Ich mag japanisches Essen sehr. Ich vermisse auch allgemein einfach so Japan, im
 
 **Gibt es kulturelle Unterschiede in der Art, wie du erzogen wurdest, im Vergleich zu deinen schweizerischen Freunden?**
 Ich habe bemerkt, dass die Schweizer Kinder sehr mutterabhängig. Nicht, dass es so ist, aber die Mutter macht mehr, das ist der soziale Standard in der Schweiz. In Japan gibt es auch logischerweise Mütter, die viel für die Kinder machen. Aber oftmals, wie meine Mutter, lässt man die Kinder von Anfang an viel selbst machen.
-
-> Blabla
 
 **Wo fühlst du dich am meisten zu Hause?**
 Also mein Zuhause ist in der Schweiz, also ich fühle mich schon am meisten in der Schweiz zu Hause. Japan ist für mich schon fast zu einem Ferienort geworden. Ich gehe nur noch dort hin, um mich zu erholen. Aber ich sehe es nicht mehr als zu Hause.
