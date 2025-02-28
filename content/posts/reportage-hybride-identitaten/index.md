@@ -12,11 +12,17 @@ Es ist nicht ungewöhnlich mit mehreren kulturellen Einflüssen aufzuwachsen, ab
 
 {{</lead>}}
 
-Wir setzen uns in einen Park in Langenthal, es ist ein trüber Tag, und es riecht nach japanischem Essen. Sein liebstes asiatisches Restaurant liegt gleich um die Ecke. Während um uns Kinder spielen, erzählt Fumito offen über seine Erfahrungen mit einer hybriden Identität. Man sieht ihm an, dass er sich auf das Interview freut.
+
 
 > Immer neugierig.
 >
 > *Fumito Browne*
+
+Wir setzen uns in einen Park in Langenthal, es ist ein trüber Tag, und es riecht nach japanischem Essen. Sein liebstes asiatisches Restaurant liegt gleich um die Ecke. Während um uns Kinder spielen, erzählt Fumito offen über seine Erfahrungen mit einer hybriden Identität. Man sieht ihm an, dass er sich auf das Interview freut.
+
+{{<box>}}
+Fumito Robert Browne hat in Japan das Licht erblickt und verbrachte dort die ersten 8 Jahre seines Lebens, bevor er für ein Jahr nach England zog. Nun lebt er seit über 10 Jahren in der Schweiz. Mit seinem Multikulturellem Hintergrund und seinen Erfahrungen aus 3 Ländern kennt er die Herausforderungen hybrider Identitäten aus erster Hand. Heute macht Fumito eine Lehre als Polymechaniker.
+{{</box>}}
 
 **Leo Boghenbor: Kannst du mir etwas über deine Herkunft erzählen? Wo bist du geboren und wo bist du aufgewachsen?**
 Fumito Browne: Ich heiße Fumito Browne, ich komme aus Japan und England. Ich bin 20 Jahre alt, meine Mutter ist Japanerin, mein Vater ist Engländer. Ich bin in Japan geboren, ich denke Yokohama, aber am längsten habe ich in Tokyo gewohnt.
@@ -56,7 +62,3 @@ Also mein Zuhause ist in der Schweiz, also ich fühle mich schon am meisten in d
 
 **Welchen Rat würdest du anderen jungen Menschen geben, mit einem ähnlichen multikulturellen Hintergrund wie du, die Schwierigkeiten haben mit ihrer Identität oder Schwierigkeiten haben sich zu integrieren?**
 Einfach nicht darauf eingehen, wenn sie dich beleidigen. Jeder macht sein eigenes Ding. Du musst nicht unbedingt integriert werden, du musst es einfach probieren. Solange du es probierst und solange du dir Mühe gibst, werden sie dich aufnehmen. Weil die Schweiz eben ein sehr offenes, multikulturelles Land ist.
-
-{{<box>}}
-Fumito Robert Browne hat in Japan das Licht erblickt und verbrachte dort die ersten 8 Jahre seines Lebens, bevor er für ein Jahr nach England zog. Nun lebt er seit über 10 Jahren in der Schweiz. Mit seinem Multikulturellem Hintergrund und seinen Erfahrungen aus 3 Ländern kennt er die Herausforderungen hybrider Identitäten aus erster Hand. Heute macht Fumito eine Lehre als Polymechaniker.
-{{</box>}}
