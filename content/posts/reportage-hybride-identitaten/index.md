@@ -8,7 +8,7 @@ image = "image-3-.jpg"
 +++
 {{<lead>}}
 
-Es ist nicht ungewöhnlich mit mehreren kulturellen Einflüssen aufzuwachsen, aber was bedeutet das für die Identität? Fumito Browne hat englisch-japanische Wurzeln, lebte in Japan und England und lebt nun seit über zehn Jahren in der Schweiz. In diesem Interview spricht er über Anpassung, Zugehörigkeit, Herausforderungen und über die Frage, wo er sich wirklich zu Hause fühlt.
+Es ist nicht ungewöhnlich, mit mehreren kulturellen Einflüssen aufzuwachsen, aber was bedeutet das für die Identität? Fumito Browne hat englisch-japanische Wurzeln, lebte in Japan und England und lebt nun seit über zehn Jahren in der Schweiz. In diesem Interview spricht er über Anpassung, Zugehörigkeit, Herausforderungen und über die Frage, wo er sich wirklich zu Hause fühlt.
 
 {{</lead>}}
 
