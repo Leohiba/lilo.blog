@@ -5,8 +5,6 @@ draft = false
 pinned = false
 image = "image-3-.jpg"
 +++
-Autor: Leo Boghenbor
-
 Es ist nicht ungewöhnlich mit mehreren kulturellen Einflüssen aufzuwachsen, aber was bedeutet das für die Identität? Fumito Browne hat englisch-japanische Wurzeln, lebte in Japan und England und lebt nun seit über zehn Jahren in der Schweiz. In diesem Interview spricht er über Anpassung, Zugehörigkeit, Herausforderungen und über die Frage, wo er sich wirklich zu Hause fühlt.
 
 Wir setzen uns in einen Park in Langenthal, es ist ein trüber Tag, und es riecht nach japanischem Essen. Sein liebstes asiatisches Restaurant liegt gleich um die Ecke. Während um uns Kinder spielen, erzählt Fumito offen über seine Erfahrungen mit einer hybriden Identität. Man sieht ihm an, dass er sich auf das Interview freut.
