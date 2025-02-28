@@ -14,6 +14,10 @@ Es ist nicht ungewöhnlich mit mehreren kulturellen Einflüssen aufzuwachsen, ab
 
 Wir setzen uns in einen Park in Langenthal, es ist ein trüber Tag, und es riecht nach japanischem Essen. Sein liebstes asiatisches Restaurant liegt gleich um die Ecke. Während um uns Kinder spielen, erzählt Fumito offen über seine Erfahrungen mit einer hybriden Identität. Man sieht ihm an, dass er sich auf das Interview freut.
 
+> Immer neugierig.
+>
+> *Fumito Browne*
+
 **Leo Boghenbor: Kannst du mir etwas über deine Herkunft erzählen? Wo bist du geboren und wo bist du aufgewachsen?**
 Fumito Browne: Ich heiße Fumito Browne, ich komme aus Japan und England. Ich bin 20 Jahre alt, meine Mutter ist Japanerin, mein Vater ist Engländer. Ich bin in Japan geboren, ich denke Yokohama, aber am längsten habe ich in Tokyo gewohnt.
 
@@ -22,10 +26,6 @@ Ja, sprechen kann ich flüssig. Schreiben kann ich nur Hiragana, Katakana. Kanji
 
 **Wie würdest du deine Identität in einem Satz beschreiben?**
 Ich würde mich als immer neugierig beschreiben.
-
-> Immer neugierig.
->
-> *Fumito Browne*
 
 **Gibt es Momente, in denen du dich mehr Englisch oder Japanisch fühlst?**
 Zum Beispiel, wenn ich so im ÖV bin und ich sehe die Jungen und die geben keine Sitzplätze an die alten Frauen, dann fühle ich mich sehr japanisch und ich würde sie gerne darauf ansprechen. Wenn ich laut spreche und etwas trinke fühle ich mich wie ein Engländer.
